@@ -1,0 +1,25 @@
+
+create a todo file for team Auto-XML:
+
+use git and github for project repository management: done
+
+use poetry for dependency managment: done
+
+train a baseline pipeline full set of features without optimization to compare results:
+
+use pipelines for training workflow management:
+
+use pipelines for inference workflow management:
+
+use fastapi for inference serving:
+
+use gradio to connect with inference backend:
+
+use mlflow/wnb for model training artefacts:
+
+use meta-flow for parallel model training
+
+use ci/cd for model training
+
+use explainable ai
+use data governance and linage for model training:
